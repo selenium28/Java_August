@@ -6,6 +6,9 @@ public class DataTypeConcept {
 		
 //		DataTypes Primitive data type
 //		1. Integer
+//		int - DataType
+//		a - Variable
+//		10 - value - we have assign/stored 10 value to a variable
 		int a = 10;
 		int a1 = 20;
 		int a2 = -5;
